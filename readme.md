@@ -1,4 +1,4 @@
-=== LCD and PS/2 Keyboard serial terminal ===
+### LCD and PS/2 Keyboard serial terminal ###
 
 This is a simple serial terminal that can use any character LCD supported by 
 the standard Arduino `LiquidCrystal` library. Adjust the `NUM_COL` and 
@@ -16,7 +16,7 @@ board, see this repo:
 
 https://github.com/eparadis/z80-mbc2-ios-lite
 
-=== TODO ===
+### TODO ###
 
 - properly working backspace
 - store a scroll-back buffer that can be viewed with PgUp and PgDn
